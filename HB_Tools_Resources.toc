@@ -1,0 +1,5 @@
+## Interface: 90345
+## Title: HB_Tools_Resources
+## Version: 9.0.0
+## Notes: my private res pack
+## Author: hook_bin@foxmail.com
