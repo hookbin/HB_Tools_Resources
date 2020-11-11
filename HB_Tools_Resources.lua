@@ -58,7 +58,7 @@ local defaultpack = {
 local emoticons = {
 	-- Extends
 	["黄阿姨"] = "黄阿姨",
-	["兔子"] = "兔子",
+	["兔子"] = "兔子"
 };
 
 local dropdown_options = {
